@@ -1,6 +1,0 @@
-"vertexlitgeneric"
-{
-	"$baseTexture" "models/player/t_guerilla/t_guerilla"
-	"$bumpmap" "models/player/t_guerilla/t_guerilla_normal"
-}
-
